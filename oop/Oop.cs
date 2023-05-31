@@ -174,5 +174,4 @@ Console.WriteLine("Enter FISRT VALUE");
 a =int.Parse( Console.ReadLine());
 Console.WriteLine("Enter FISRT VALUE");
 b =int.Parse( Console.ReadLine());
-
 Console.WriteLine((a < 0 && b > 0) || (a < 0 && b > 0));
